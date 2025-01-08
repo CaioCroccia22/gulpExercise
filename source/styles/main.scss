@@ -1,0 +1,6 @@
+@use 'var';
+
+body{
+    background-color: var.$corPrincipal;
+    color: var.$corDeTexto;
+}
